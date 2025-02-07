@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1738936894 source:c:\users\pc\documents\programacion1\progra1\programacion1\calculadora-imc\calculadora-imc\main.cpp
+	<iostream>
+	<cstdlib>
+
