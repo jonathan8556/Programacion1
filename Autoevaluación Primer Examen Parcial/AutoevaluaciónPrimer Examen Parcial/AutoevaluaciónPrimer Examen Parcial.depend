@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1740150885 source:c:\users\pc\documents\programacion1\progra1\programacion1\autoevaluación primer examen parcial\autoevaluaciónprimer examen parcial\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
